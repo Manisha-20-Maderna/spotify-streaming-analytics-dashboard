@@ -12,7 +12,7 @@ This project explores Spotify's streaming dataset using **Power BI**, **Power Qu
 
 ## 📷 Dashboard Preview
 
-(Dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ---
 
